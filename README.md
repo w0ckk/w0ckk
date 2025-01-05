@@ -8,7 +8,7 @@
 - obsidian | https://discord.gg/obd
 - index | https://discord.gg/getindex
 
-# Info
+# info
 - 14
 - US
 - contact me at @stolencoin on discord.

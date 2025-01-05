@@ -5,11 +5,10 @@
 - ahk
 
 # current projects
-- obsidian | https://discord.gg/8nRFcTx4sV
+- obsidian | https://discord.gg/obd
 - index | https://discord.gg/getindex
 
 # Info
 - 14
 - US
 - contact me at @stolencoin on discord.
-- shared github account
